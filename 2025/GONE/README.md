@@ -154,7 +154,7 @@ To run a PCA, we can use the following command:
 plink --bfile ../DATA/KW_all --pca 151 --out KW_all
 ```
 
-This should generate two files with `.eigenval` and `.eigenvec` file extensions. To plot the results, we can use the Python script provided under `./SCRIPTS`. We may have noticed that the PLINK output refers to "people". This is because PLINK was originally developed for human genetic data.
+This should generate two files with `.eigenval` and `.eigenvec` file extensions. To plot the results, we can use the Python script provided under `./SCRIPTS`. You may have noticed that the PLINK output refers to "people". This is because PLINK was originally developed for human genetic data.
 
 ```bash
 python ../SCRIPTS/plot_PCA.py 
