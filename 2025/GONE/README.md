@@ -99,7 +99,7 @@ The `.fam` file is a text file that contains information about each individual s
 
 ## Exploring the data
 
-Open this link in your browser to set up the GONE training environment for this practical: [GitHub Codespace link to be provided]
+Open this link in your browser to set up the GONE training environment for this practical: [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://classroom.github.com/a/ZG65xSNV)
 
 We should be presented with a page where we can create a new GitHub Codespace. For this practical, the default environment with 2 cores should suffice.
 
